@@ -1,4 +1,4 @@
-name: "Deploy to Caprover"
+name: "Caprover Deployer"
 
 description: "An Action to build a docker image and deploy to Caprover"
 author: "Jasir Zaeem"
